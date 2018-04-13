@@ -42,3 +42,11 @@ h1{
   font-weight: bold;
   color: blue;
 }
+body{
+  background: url('../images/ArtsAndCraftsBackground.jpg');
+  width: 1200px;
+  height: 1200px;
+  background-size: cover;
+  position: relative;
+  position: absolute;
+}
